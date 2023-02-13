@@ -1,0 +1,4 @@
+.env
+package-lock.json
+mistakes.txt
+/node_modules
